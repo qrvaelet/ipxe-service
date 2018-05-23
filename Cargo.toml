@@ -1,5 +1,5 @@
 [package]
-name = "pxe-booter"
+name = "ipxe-service"
 version = "0.1.0"
 authors = ["sziszi"]
 
