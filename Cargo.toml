@@ -1,0 +1,11 @@
+[package]
+name = "pxe-booter"
+version = "0.1.0"
+authors = ["sziszi"]
+
+[dependencies]
+#actix-web = { path = "../actix-web" }
+actix-web = "0.6"
+actix = "0.5"
+env_logger = "0.5"
+glob = "0.2"
